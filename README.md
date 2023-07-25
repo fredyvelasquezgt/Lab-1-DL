@@ -5,3 +5,6 @@
 - Angel Higueros
 - Fredy Velasquez
 
+## Resultado
+
+![alt](image.png)
